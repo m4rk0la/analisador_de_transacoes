@@ -12,7 +12,7 @@ A ideia principal e enviar um arquivo JSON que possui diversas transações banc
 
 - Identificação de arquivos JSON
 - Análise por chat GPT
-- retorno e save em JSON
+- retorno e save em TXT
 
 ## Como usar
 Crie o arquivo .env e salve a variável OPENAI_API_KEY="Sua chave de API"
