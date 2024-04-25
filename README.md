@@ -10,24 +10,14 @@ A ideia principal e enviar um arquivo JSON que possui diversas transações banc
 
 ## Funcionalidades
 
-- [Funcionalidade 1]
-- [Funcionalidade 2]
-- [Funcionalidade 3]
-- ...
+- Identificação de arquivos JSON
+- Análise por chat GPT
+- retorno e save em JSON
 
 ## Como usar
-
-[Instruções sobre como configurar e usar o projeto]
-
-## Contribuindo
-
-[Informações sobre como contribuir para o projeto, orientações de estilo de código, etc.]
-
-## Contato
-
-[Tire dúvidas, relate bugs ou sugira melhorias]
+Crie o arquivo .env e salve a variável OPENAI_API_KEY="Sua chave de API"
 
 ## Agradecimentos
 
-[Agradecimentos a contribuidores, inspirações, etc.]
+Agradecimento ao curso da Alura, criação de ferramentas com python e GPT!
 
