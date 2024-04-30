@@ -1,23 +1,22 @@
-# Analisador de Transações
 
-🌟 Bem-vindo(a) ao Analisador de Transações! 🌟
+#Transaction Analyzer#
+🌟 Welcome to the Transaction Analyzer! 🌟
 
-O projeto consiste na construção de vinculos entre arquivos DJON e a API da OpenAI para validação.
+The project consists of building links between DJON files and the OpenAI API for validation.
 
-## Sobre
+#About#
+The main idea is to send a JSON file containing various banking transactions and validate them for possible fraud.
 
-A ideia principal e enviar um arquivo JSON que possui diversas transações bancárias e valida-las sobre possíveis fraudes.
+#Features#
+Identification of JSON files
+Analysis via GPT chat
+Return and save to TXT
 
-## Funcionalidades
+#How to Use#
+Create the .env file and save the variable OPENAI_API_KEY="Your API Key"
+Change the directory to the chosen file and compile!
+Changes to the prompt are also accepted!
 
-- Identificação de arquivos JSON
-- Análise por chat GPT
-- retorno e save em TXT
-
-## Como usar
-Crie o arquivo .env e salve a variável OPENAI_API_KEY="Sua chave de API"
-
-## Agradecimentos
-
-Agradecimento ao curso da Alura, criação de ferramentas com python e GPT!
+#Acknowledgments#
+Thanks to the Alura course, creation of tools with Python and GPT!
 
